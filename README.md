@@ -1,5 +1,5 @@
 # diagram-petclinic
-_Auala Conceitos FullStack-Developer_
+_Aula Conceitos FullStack-Developer_
 
 ### `Imagem do Diagrama`
 
